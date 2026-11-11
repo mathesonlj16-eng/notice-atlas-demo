@@ -1,0 +1,464 @@
+{
+  "metadata": {
+    "fictional": true,
+    "as_of": "2026-11-11",
+    "description": "DEMONSTRATION ONLY â€” not live tenders or purchasable work",
+    "schema_version": 2
+  },
+  "notices": [
+    {
+      "id": "DEMO-0001",
+      "title": "Digital resource directory and accessibility refresh",
+      "buyer": "Hearthview Community Network",
+      "category": "Web & CMS",
+      "region": "Ontario",
+      "published": "2026-11-07",
+      "deadline": "2026-11-15",
+      "deadline_evidence": [],
+      "budget_cad": 19500,
+      "status": "Open",
+      "confidence": "Review needed",
+      "eligibility": "Not assessed",
+      "history": [
+        {
+          "date": "2026-11-07",
+          "event": "First observed",
+          "detail": "Fictional initial notice"
+        }
+      ],
+      "summary": "Fictional example of a web & cms engagement. Review original scope and mandatory qualifications before drawing any procurement conclusion."
+    },
+    {
+      "id": "DEMO-0002",
+      "title": "Operations reporting dashboard",
+      "buyer": "Northfield Programs Office",
+      "category": "Data & BI",
+      "region": "Ontario",
+      "published": "2026-11-06",
+      "deadline": "2026-11-17",
+      "deadline_evidence": [],
+      "budget_cad": 27800,
+      "status": "Open",
+      "confidence": "Review needed",
+      "eligibility": "Not assessed",
+      "history": [
+        {
+          "date": "2026-11-06",
+          "event": "First observed",
+          "detail": "Fictional initial notice"
+        },
+        {
+          "date": "2026-11-08",
+          "event": "Amendment observed",
+          "detail": "Fictional scope clarification logged"
+        }
+      ],
+      "summary": "Fictional example of a data & bi engagement. Review original scope and mandatory qualifications before drawing any procurement conclusion."
+    },
+    {
+      "id": "DEMO-0003",
+      "title": "Internal document approval automation",
+      "buyer": "Cedarbrook Association",
+      "category": "Workflow",
+      "region": "Atlantic",
+      "published": "2026-11-05",
+      "deadline": "2026-11-19",
+      "deadline_evidence": [],
+      "budget_cad": 15400,
+      "status": "Open",
+      "confidence": "Review needed",
+      "eligibility": "Not assessed",
+      "history": [
+        {
+          "date": "2026-11-05",
+          "event": "First observed",
+          "detail": "Fictional initial notice"
+        }
+      ],
+      "summary": "Fictional example of a workflow engagement. Review original scope and mandatory qualifications before drawing any procurement conclusion."
+    },
+    {
+      "id": "DEMO-0004",
+      "title": "Volunteer sign-up and scheduling portal",
+      "buyer": "Beacon Community Partners",
+      "category": "Web & CMS",
+      "region": "British Columbia",
+      "published": "2026-11-04",
+      "deadline": "2026-11-21",
+      "deadline_evidence": [],
+      "budget_cad": 32000,
+      "status": "Closed",
+      "confidence": "Review needed",
+      "eligibility": "Not assessed",
+      "history": [
+        {
+          "date": "2026-11-04",
+          "event": "First observed",
+          "detail": "Fictional initial notice"
+        }
+      ],
+      "summary": "Fictional example of a web & cms engagement. Review original scope and mandatory qualifications before drawing any procurement conclusion."
+    },
+    {
+      "id": "DEMO-0005",
+      "title": "Digital evidence review prototype",
+      "buyer": "Fictional Civic Data Lab",
+      "category": "AI & Governance",
+      "region": "Ontario",
+      "published": "2026-11-03",
+      "deadline": null,
+      "deadline_evidence": [
+        {
+          "source": "Fictional notice snapshot",
+          "observed": "2026-11-03",
+          "deadline": "2026-11-23"
+        },
+        {
+          "source": "Fictional bulletin snapshot",
+          "observed": "2026-11-05",
+          "deadline": "2026-11-30"
+        }
+      ],
+      "budget_cad": 47000,
+      "status": "Open",
+      "confidence": "Conflicting source",
+      "eligibility": "Not assessed",
+      "history": [
+        {
+          "date": "2026-11-03",
+          "event": "First observed",
+          "detail": "Fictional initial notice"
+        },
+        {
+          "date": "2026-11-05",
+          "event": "Data conflict",
+          "detail": "Two fictional snapshots report different dates; awaiting source verification"
+        }
+      ],
+      "summary": "Fictional example of a ai & governance engagement. Review original scope and mandatory qualifications before drawing any procurement conclusion."
+    },
+    {
+      "id": "DEMO-0006",
+      "title": "Content-management migration and training",
+      "buyer": "Silverplain Learning Centre",
+      "category": "Web & CMS",
+      "region": "Prairies",
+      "published": "2026-11-02",
+      "deadline": "2026-11-25",
+      "deadline_evidence": [],
+      "budget_cad": 22800,
+      "status": "Open",
+      "confidence": "Review needed",
+      "eligibility": "Not assessed",
+      "history": [
+        {
+          "date": "2026-11-02",
+          "event": "First observed",
+          "detail": "Fictional initial notice"
+        }
+      ],
+      "summary": "Fictional example of a web & cms engagement. Review original scope and mandatory qualifications before drawing any procurement conclusion."
+    },
+    {
+      "id": "DEMO-0007",
+      "title": "Data quality and reporting study",
+      "buyer": "Coastal Research Collective",
+      "category": "Data & BI",
+      "region": "Atlantic",
+      "published": "2026-11-01",
+      "deadline": "2026-11-27",
+      "deadline_evidence": [],
+      "budget_cad": 14500,
+      "status": "Open",
+      "confidence": "Review needed",
+      "eligibility": "Not assessed",
+      "history": [
+        {
+          "date": "2026-11-01",
+          "event": "First observed",
+          "detail": "Fictional initial notice"
+        }
+      ],
+      "summary": "Fictional example of a data & bi engagement. Review original scope and mandatory qualifications before drawing any procurement conclusion."
+    },
+    {
+      "id": "DEMO-0008",
+      "title": "Workflow integration discovery",
+      "buyer": "Maplebridge Collaborative",
+      "category": "Workflow",
+      "region": "Ontario",
+      "published": "2026-10-31",
+      "deadline": "2026-11-29",
+      "deadline_evidence": [],
+      "budget_cad": 12000,
+      "status": "Open",
+      "confidence": "Review needed",
+      "eligibility": "Not assessed",
+      "history": [
+        {
+          "date": "2026-10-31",
+          "event": "First observed",
+          "detail": "Fictional initial notice"
+        }
+      ],
+      "summary": "Fictional example of a workflow engagement. Review original scope and mandatory qualifications before drawing any procurement conclusion."
+    },
+    {
+      "id": "DEMO-0009",
+      "title": "Searchable grant directory",
+      "buyer": "Bluefield Regional Forum",
+      "category": "Web & CMS",
+      "region": "Quebec",
+      "published": "2026-11-08",
+      "deadline": null,
+      "deadline_evidence": [
+        {
+          "source": "Fictional notice snapshot",
+          "observed": "2026-11-08",
+          "deadline": "2026-12-01"
+        },
+        {
+          "source": "Fictional bulletin snapshot",
+          "observed": "2026-11-10",
+          "deadline": "2026-12-08"
+        }
+      ],
+      "budget_cad": 38000,
+      "status": "Amended",
+      "confidence": "Conflicting source",
+      "eligibility": "Not assessed",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "event": "First observed",
+          "detail": "Fictional initial notice"
+        },
+        {
+          "date": "2026-11-10",
+          "event": "Data conflict",
+          "detail": "Two fictional snapshots report different dates; awaiting source verification"
+        }
+      ],
+      "summary": "Fictional example of a web & cms engagement. Review original scope and mandatory qualifications before drawing any procurement conclusion."
+    },
+    {
+      "id": "DEMO-0010",
+      "title": "AI system inventory assessment",
+      "buyer": "Newbridge Model Research Unit",
+      "category": "AI & Governance",
+      "region": "Quebec",
+      "published": "2026-11-07",
+      "deadline": "2026-12-03",
+      "deadline_evidence": [],
+      "budget_cad": 55000,
+      "status": "Open",
+      "confidence": "Review needed",
+      "eligibility": "Not assessed",
+      "history": [
+        {
+          "date": "2026-11-07",
+          "event": "First observed",
+          "detail": "Fictional initial notice"
+        }
+      ],
+      "summary": "Fictional example of a ai & governance engagement. Review original scope and mandatory qualifications before drawing any procurement conclusion."
+    },
+    {
+      "id": "DEMO-0011",
+      "title": "Accessible program registration flow",
+      "buyer": "Harbourpoint Skills Network",
+      "category": "Web & CMS",
+      "region": "Atlantic",
+      "published": "2026-11-06",
+      "deadline": "2026-12-05",
+      "deadline_evidence": [],
+      "budget_cad": 26000,
+      "status": "Open",
+      "confidence": "Review needed",
+      "eligibility": "Not assessed",
+      "history": [
+        {
+          "date": "2026-11-06",
+          "event": "First observed",
+          "detail": "Fictional initial notice"
+        }
+      ],
+      "summary": "Fictional example of a web & cms engagement. Review original scope and mandatory qualifications before drawing any procurement conclusion."
+    },
+    {
+      "id": "DEMO-0012",
+      "title": "Performance metric data pipeline",
+      "buyer": "Lakepath Community Office",
+      "category": "Data & BI",
+      "region": "Ontario",
+      "published": "2026-11-05",
+      "deadline": "2026-12-07",
+      "deadline_evidence": [],
+      "budget_cad": 42000,
+      "status": "Open",
+      "confidence": "Review needed",
+      "eligibility": "Not assessed",
+      "history": [
+        {
+          "date": "2026-11-05",
+          "event": "First observed",
+          "detail": "Fictional initial notice"
+        },
+        {
+          "date": "2026-11-07",
+          "event": "Amendment observed",
+          "detail": "Fictional scope clarification logged"
+        }
+      ],
+      "summary": "Fictional example of a data & bi engagement. Review original scope and mandatory qualifications before drawing any procurement conclusion."
+    },
+    {
+      "id": "DEMO-0013",
+      "title": "Service desk automation pilot",
+      "buyer": "Westfield Support Alliance",
+      "category": "Workflow",
+      "region": "Prairies",
+      "published": "2026-11-04",
+      "deadline": "2026-12-09",
+      "deadline_evidence": [],
+      "budget_cad": 29900,
+      "status": "Open",
+      "confidence": "Review needed",
+      "eligibility": "Not assessed",
+      "history": [
+        {
+          "date": "2026-11-04",
+          "event": "First observed",
+          "detail": "Fictional initial notice"
+        }
+      ],
+      "summary": "Fictional example of a workflow engagement. Review original scope and mandatory qualifications before drawing any procurement conclusion."
+    },
+    {
+      "id": "DEMO-0014",
+      "title": "Public content taxonomy review",
+      "buyer": "Fictional Valley Library",
+      "category": "Web & CMS",
+      "region": "Ontario",
+      "published": "2026-11-03",
+      "deadline": "2026-12-11",
+      "deadline_evidence": [],
+      "budget_cad": 8200,
+      "status": "Open",
+      "confidence": "Review needed",
+      "eligibility": "Not assessed",
+      "history": [
+        {
+          "date": "2026-11-03",
+          "event": "First observed",
+          "detail": "Fictional initial notice"
+        }
+      ],
+      "summary": "Fictional example of a web & cms engagement. Review original scope and mandatory qualifications before drawing any procurement conclusion."
+    },
+    {
+      "id": "DEMO-0015",
+      "title": "Reporting template modernization",
+      "buyer": "Parkridge Health Studies Unit",
+      "category": "Data & BI",
+      "region": "British Columbia",
+      "published": "2026-11-02",
+      "deadline": "2026-12-13",
+      "deadline_evidence": [],
+      "budget_cad": 17400,
+      "status": "Closed",
+      "confidence": "Review needed",
+      "eligibility": "Not assessed",
+      "history": [
+        {
+          "date": "2026-11-02",
+          "event": "First observed",
+          "detail": "Fictional initial notice"
+        }
+      ],
+      "summary": "Fictional example of a data & bi engagement. Review original scope and mandatory qualifications before drawing any procurement conclusion."
+    },
+    {
+      "id": "DEMO-0016",
+      "title": "Risk-register reporting prototype",
+      "buyer": "Limestone Audit Lab",
+      "category": "AI & Governance",
+      "region": "Ontario",
+      "published": "2026-11-01",
+      "deadline": null,
+      "deadline_evidence": [
+        {
+          "source": "Fictional notice snapshot",
+          "observed": "2026-11-01",
+          "deadline": "2026-12-15"
+        },
+        {
+          "source": "Fictional bulletin snapshot",
+          "observed": "2026-11-03",
+          "deadline": "2026-12-22"
+        }
+      ],
+      "budget_cad": 72000,
+      "status": "Open",
+      "confidence": "Conflicting source",
+      "eligibility": "Not assessed",
+      "history": [
+        {
+          "date": "2026-11-01",
+          "event": "First observed",
+          "detail": "Fictional initial notice"
+        },
+        {
+          "date": "2026-11-03",
+          "event": "Data conflict",
+          "detail": "Two fictional snapshots report different dates; awaiting source verification"
+        }
+      ],
+      "summary": "Fictional example of a ai & governance engagement. Review original scope and mandatory qualifications before drawing any procurement conclusion."
+    },
+    {
+      "id": "DEMO-0017",
+      "title": "Community event calendar improvement",
+      "buyer": "Sunridge Volunteer Group",
+      "category": "Web & CMS",
+      "region": "Prairies",
+      "published": "2026-10-31",
+      "deadline": "2026-12-17",
+      "deadline_evidence": [],
+      "budget_cad": 13300,
+      "status": "Open",
+      "confidence": "Review needed",
+      "eligibility": "Not assessed",
+      "history": [
+        {
+          "date": "2026-10-31",
+          "event": "First observed",
+          "detail": "Fictional initial notice"
+        }
+      ],
+      "summary": "Fictional example of a web & cms engagement. Review original scope and mandatory qualifications before drawing any procurement conclusion."
+    },
+    {
+      "id": "DEMO-0018",
+      "title": "API data validation and transformation",
+      "buyer": "Ridgecrest Public Data Office",
+      "category": "Data & BI",
+      "region": "Quebec",
+      "published": "2026-11-08",
+      "deadline": "2026-12-19",
+      "deadline_evidence": [],
+      "budget_cad": 33500,
+      "status": "Open",
+      "confidence": "Review needed",
+      "eligibility": "Not assessed",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "event": "First observed",
+          "detail": "Fictional initial notice"
+        }
+      ],
+      "summary": "Fictional example of a data & bi engagement. Review original scope and mandatory qualifications before drawing any procurement conclusion."
+    }
+  ]
+}
