@@ -1,6 +1,6 @@
 # Notice Atlas
 
-**Independent data and software demo using 18 fictional procurement notices. Python (standard library only) · *versioned JSON fixture · dependency-free front end.* An analyst can narrow a notice register, review the evidence behind a disputed deadline, and keep that record out of time-sensitive reporting until a person verifies it.
+**Independent data and software demo using 18 fictional procurement notices. Python (standard library only) · versioned JSON fixture · dependency-free front end.** An analyst can narrow a notice register, review the evidence behind a disputed deadline, and keep that record out of time-sensitive reporting until a person verifies it.
 
 - **Find a record.** Search by title, buyer, ID or summary, combine category and status filters, and reset the register in one action.
 - **Compare two reported dates.** Search `DEMO-0005` and open the record to see each reported deadline, observation date and source label. The register shows **Disputed** while the sources disagree.
