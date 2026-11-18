@@ -1,5 +1,11 @@
 # Notice Atlas
 
+**A procurement deadline is only useful if it's right. Notice Atlas flags government tenders whose sources disagree and keeps them out of "due soon" reports until a person checks the evidence, so nobody misses or chases the wrong bid date.**
+
+`18 fictional notices` · `3 source conflicts surfaced` · `9 automated tests incl. live HTTP checks` · `zero dependencies (Python standard library)` · `responsive down to 390px`
+
+This is the public, fictional-data demo of the review approach used in [Contract Intelligence](https://github.com/mathesonlj16-eng/canadabuys-contract-intelligence), my procurement monitoring pipeline that tracks 900+ live CanadaBuys notices with full change history.
+
 **Independent data and software demo using 18 fictional procurement notices. Python (standard library only) · versioned JSON fixture · dependency-free front end.** An analyst can narrow a notice register, review the evidence behind a disputed deadline, and keep that record out of time-sensitive reporting until a person verifies it.
 
 - **Find a record.** Search by title, buyer, ID or summary, combine category and status filters, and reset the register in one action.
